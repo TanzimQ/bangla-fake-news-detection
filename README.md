@@ -19,25 +19,10 @@ This project compares traditional Machine Learning methods with a BanglaBERT-bas
 
 We used `csebuetnlp/banglabert` for transfer learning.
 
-## ⚙️ Setup
-
-```bash
-pip install -r requirements.txt
-```
-
-## ▶️ Run
-
-```bash
-python notebooks/banglabert.py
-```
-
 ## 📁 Dataset
 
 Bangla Fake News Dataset (Mendeley)
 
-## 📄 Report
-
-See full report in `report/` folder.
 
 ## 👨‍💻 Authors
 
